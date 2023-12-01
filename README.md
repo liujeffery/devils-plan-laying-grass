@@ -10,7 +10,7 @@ The game is slightly modified from the original version, as it supports six play
 ## Prerequesites:
 The only prerequesite is that PySimpleGUI and Pillow are installed.
 
-Instructions for play:
+## Instructions for play:
 To rotate the pieces or change the colour depending on the round/team, please right click the pieces.
 For instructions about rules, please follow [this link](https://www.dexerto.com/tv-movies/the-devils-plan-games-explained-2310672/#:~:text=Laying%20Grass%20is%20the%20fifth,to%20create%20the%20largest%20square.).
 
