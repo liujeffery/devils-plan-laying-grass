@@ -70,7 +70,7 @@ layout = [
     sg.VerticalSeparator(),
     sg.Column(sidebar)]]
 # Create the window
-window = sg.Window("testing testing", layout, size=(1200, 650), icon=convert_to_bytes(Image.open('images/logo.png')))
+window = sg.Window("Laying Grass", layout, size=(1200, 650), icon=convert_to_bytes(Image.open('images/logo.png')))
 window.Finalize()
 
 graph = window["-GRAPH-"]  # type: sg.Graph
