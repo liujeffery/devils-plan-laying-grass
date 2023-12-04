@@ -1,4 +1,4 @@
-# devils-plan-laying-grass
+# Laying Grass
 A code emulator of Laying Grass, the fifth main match game of the Netflix show The Devil's Plan.
 This code was created as part of an event for a university club.
 
